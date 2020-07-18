@@ -1,0 +1,223 @@
+body{
+  margin:0;
+  padding:0;
+  font-family: Helvetica, freesans, sans-serif;
+  font-color:grey;
+  font-weight: 500;
+}
+.whitenav{
+  height:40px;
+  width: 1200px;
+  margin:0 auto;
+
+
+}
+#signin{
+  padding: 0 20px;
+}
+.bbclogo{
+  height:40px;
+  float: left;
+  border-right: 1px grey solid;
+}
+.button{
+  height:20px;
+  padding: 10px 20px;
+  position: relative;
+  left:10px;
+  font-size: 90%;
+  border-right: 1px grey solid;
+  float: left;
+}
+.extrapadding{
+  padding: 10px 40px 10px 10px;
+}
+#search{
+  width: 150px;
+  height: 20px;
+  border-style: none;
+  position: relative;
+  top: -5px;
+  margin-right: 0;
+  background-color: #E4E4E4;
+}
+.bigrednav{
+  height:100PX;
+  background-color:#BB1919;
+
+}
+.smallrednav{
+  height: 100PX;
+  width: 1200PX;
+  background-color: #BB1919;
+  margin: 0 auto;
+  color: white;
+}
+#news{
+  margin: 0 3px;
+  font-size: 50px;
+}
+.redbutton p
+{
+  height: 5px;
+  font-size: 90%;
+  padding: 3px 10px 10px 10px;
+  border-right: 0.3px grey solid;
+  position: relative;
+  top: -1px;
+  float: left;
+}
+#Tech{
+  height: 5px;
+  font-size: 100%;
+  padding: 0px 10px 0px 10px;
+  float: left;
+  position: relative;
+  right:  1110px;
+  top: -8px;
+
+}
+.headlinesection{
+  height: 1300px;
+  width: 950px;
+  margin: 30px 163px;
+
+}
+.bigheadline a{
+  height: 320px;
+  width: 950px;
+  padding: 12px 0px 50px 0px;
+}
+.bigheadline{
+  padding: 0px 0px 20px 0px;
+}
+#hand_burned{
+  height: 300px;
+  width: 500px;
+  padding: 5px 10px 10px 2px;
+  float:left;
+}
+.clearfloat{
+  clear: both;
+}
+
+#scorching{
+  font-size: 30px;
+  font-weight: bolder;
+  float: right;
+  width: 400px;
+  position: relative;
+  left: -40px;
+  top: -310px;
+  text-decoration: none;
+
+
+}
+#scorchingdescription{
+  float: right;
+  font-size: 17px;
+  width: 400px;
+  position: relative;
+  left: 360px;
+  top: -230px;
+  text-decoration:none;
+  color: #5A5A5A;
+}
+#scorchingdescription a{
+  text-decoration: none;
+  color:#5A5A5A;
+}
+
+#scorching a{
+  text-decoration: none;
+  color:#5A5A5A;
+}
+#scorching a:hover{
+  color: #1380A1;
+  text-decoration:underline;
+}
+.smallheadline{
+
+  width:220px;
+  height: 350px;
+  margin: 75px 120px 10px 4px;
+  float: left;
+}
+#small{
+  height: 130px;
+  width:220px;
+
+}
+.smallheadlinetitle {
+  font-size: 20px;
+  text-decoration: none;
+  color: #404040;
+
+}
+.smallheadlinedescription{
+  color: #404040;
+  font-size: 13px;
+  text-decoration: none;
+  float: left;
+  padding-top: 5px;
+  position: relative;
+  top: 7px;
+}
+ a.smallheadlinetitle:hover{
+  text-decoration: underline;
+  color: #1380A1;
+}
+.clock{
+  float:left;
+  height: 20px;
+  width: 60px;
+  position: relative;
+  top: 23px;
+  border-right:  1px grey solid;
+
+}
+.clock a{
+  position: relative;
+  top: -4px;
+  font-size: 15px;
+  color: #404040;
+}
+#plugin{
+  position: relative;
+  left: 65px;
+  float: left;
+  top: -20px;
+  font-size: 15px;
+  color: #404040;
+  text-decoration: none;
+}
+.smallheadlinelast{
+
+  width:220px;
+  height: 350px;
+  margin: 75px 0px 10px 4px;
+  float: right;
+}
+.sidesection{
+  height: 1000px;
+  width: 390px;
+  position: relative;
+  top: -1330px;
+  
+  float: right;
+  padding:0px 5px 5px 0px;
+}
+.vidtitle {
+  font-size: 23px;
+  text-decoration: none;
+  padding: 4px 15px 15px 0px;
+  color: #5A5A5A;
+  font-weight: bold;
+  margin: 20px 5px;
+
+}
+.vidtitledescription{
+  font-size: 15px;
+  padding: 10px 0px 10px 0px;
+  color: #5A5A5A;
+}
